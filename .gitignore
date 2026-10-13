@@ -1,0 +1,8 @@
+.env
+data.json
+downloads/
+music/
+backup_*.json
+bot.log
+__pycache__/
+*.pyc
